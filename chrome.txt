@@ -1,0 +1,20 @@
+! Garrett's AdBlock filters
+! Last update: Wed Oct 9 11:59:52 EDT 2013
+
+www.fark.com##DIV[id="abPleaBar"]
+www.fark.com##TD[id="rightCol"]
+slashdot.org##DIV[id="modal_cover"][class="hide"]
+slashdot.org##ASIDE[id="slashboxes"][class="ui-sortable"]
+memebase.cheezburger.com##DIV[id="js-wetpaint-dialog"][class="modal chz-modal chz-modal-wetpaint"]
+memebase.cheezburger.com##DIV[id="js-ad-leaderboard"][class="ad-container ad-container-leaderboard"]
+www.ibtimes.com##DIV[class="ibtimes-tv-blocks single clearfix"]
+www.ibtimes.com##DIV[class="tm_square"]
+www.ibtimes.com##DIV[class="tm_overdiv"]
+failblog.cheezburger.com##DIV[id="js-catfish"][class="ad-catfish-wrap is-fixed"]
+clientsfromhell.net##DIV[class="fancybox-wrap fancybox-desktop fancybox-type-inline fancybox-opened"]
+clientsfromhell.net##DIV[id="fancybox-overlay"][class="overlay-fixed"]
+www.rawstory.com##DIV[id="message"]
+failblog.cheezburger.com##DIV[id="wetpaint-overlay"]
+www.kernelmag.com##DIV[id="login-box"][class="login-popup"]
+www.upworthy.com##DIV[id="holler"][class="modal fade hollertemplate_generic_email_2step_emailonly in"]
+www.upworthy.com##DIV[class="modal-backdrop fade in"]
